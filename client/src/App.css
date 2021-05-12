@@ -1,0 +1,16 @@
+html {
+    font-size: 62.5%; /* font-size 1em = 10px on default browser settings */
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+p {
+    font-size: 2rem;
+    line-height: 1.4;
+}
+
+a {
+    font-size: 1.6rem;
+}
